@@ -21,14 +21,8 @@ This repository contains practical tasks and example programs from Cyber Securit
 
 ## Instructor: Hafizullah Khokhar  
 ## Platform: Aptech Pakistan
-
----
-
 📬 **Contact / Connect:**  
 - GitHub: [Rida-Rafiq](https://github.com/Rida-Rafiq)  
 - LinkedIn: [Rida Rafiq](https://www.linkedin.com/in/rida-rafiq)  
 - Email: rafiqridaa@gmail.com
 
----
-
-**"Learning today to secure tomorrow."**
